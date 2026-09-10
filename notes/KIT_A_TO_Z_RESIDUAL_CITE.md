@@ -1,0 +1,6 @@
+# Kit A→Z residual cite
+
+Needle: OVERSEER_KIT_RUN_AE_2026_09_07
+Repo: PowerSave
+ts: 20260910T003919
+NO PAY
